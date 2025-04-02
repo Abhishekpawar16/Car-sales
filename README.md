@@ -12,10 +12,11 @@ This **interactive Power BI dashboard** provides insights into **car sales trend
 ## 🛠️ Tech Stack
 - **Power BI** for data visualization  
 - **Excel / CSV** for raw data  
-- **SQL / Python** (Optional, for data preprocessing)  
+- **SQL / Python** (data preprocessing)  
 
 ## 📸 Dashboard Preview  
-![Dashboard Screenshot]([Screenshot 2025-04-02 220911](https://github.com/user-attachments/assets/15a058d1-e3b9-4623-9dbb-5f7988e6edbb)
+![Dashboard Screenshot]
+([Screenshot 2025-04-02 220911](https://github.com/user-attachments/assets/15a058d1-e3b9-4623-9dbb-5f7988e6edbb)
 
 ## 📂 Dataset
 The dataset includes **car sales records**, customer details, and revenue data. Sample fields:  
